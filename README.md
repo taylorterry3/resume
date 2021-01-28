@@ -50,8 +50,8 @@ Data Science & Engineering Team Manager
 - Advised product management team on design and creation of new products and features to make advanced data processing and analysis accessible to clients.
 
 ### Activate    Washington, DC
-Senior Consultant/Product Manager   2008-2009
-Managed a product and support team providing virtual predictive dialer services to over 60 campaign, issue advocacy, and union clients to design effective voter contact programs, manage data efficiently, and institute program accountability measures.
+**Senior Consultant/Product Manager**   2008-2009
+- Managed a product and support team providing virtual predictive dialer services to over 60 campaign, issue advocacy, and union clients to design effective voter contact programs, manage data efficiently, and institute program accountability measures.
 
 ### CGI Fairfax, VA
 **Business Analyst**    2005-2006
